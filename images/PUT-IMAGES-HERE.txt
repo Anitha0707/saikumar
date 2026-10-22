@@ -1,0 +1,1 @@
+Copy your existing images folder contents here (lic-logo.png, portrait.jpg, favicon.png, memory-1..5.jpg).
